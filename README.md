@@ -1,4 +1,5 @@
-# FNP_SalesAnalysis
+![FNP Dashboard Preview](FernsandPetals_DashBoard.png)
+
 # FNP Sales Analysis Dashboard
 
 ## Overview
